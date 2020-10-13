@@ -1,0 +1,34 @@
+Start testing: Oct 12 08:33 Romance Daylight Time
+----------------------------------------------------------
+1/2 Testing: test1,
+1/2 Test: test1,
+Command: "C:/Users/Masoud/Documents/CMakeExample/Build/Debug/MyProject.exe"
+Directory: C:/Users/Masoud/Documents/CMakeExample/Build
+"test1," start time: Oct 12 08:33 Romance Daylight Time
+Output:
+----------------------------------------------------------
+Hello Other World
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test1," end time: Oct 12 08:33 Romance Daylight Time
+"test1," time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: test2,
+2/2 Test: test2,
+Command: "C:/Users/Masoud/Documents/CMakeExample/Build/Debug/MyProject.exe" "someparameter"
+Directory: C:/Users/Masoud/Documents/CMakeExample/Build
+"test2," start time: Oct 12 08:33 Romance Daylight Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"test2," end time: Oct 12 08:33 Romance Daylight Time
+"test2," time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 12 08:33 Romance Daylight Time

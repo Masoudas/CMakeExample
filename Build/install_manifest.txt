@@ -1,0 +1,4 @@
+D:/bin/MyProject.exe
+D:/src/Main.cpp
+D:/src/Other.cpp
+D:/src/CMakeLists.txt

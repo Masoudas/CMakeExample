@@ -1,0 +1,9 @@
+C:/Users/Masoud/Documents/CMakeExample/Build/CMakeFiles/INSTALL.dir
+C:/Users/Masoud/Documents/CMakeExample/Build/CMakeFiles/RUN_TESTS.dir
+C:/Users/Masoud/Documents/CMakeExample/Build/CMakeFiles/MyProject.dir
+C:/Users/Masoud/Documents/CMakeExample/Build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/Masoud/Documents/CMakeExample/Build/CMakeFiles/Experimental.dir
+C:/Users/Masoud/Documents/CMakeExample/Build/CMakeFiles/Continuous.dir
+C:/Users/Masoud/Documents/CMakeExample/Build/CMakeFiles/Nightly.dir
+C:/Users/Masoud/Documents/CMakeExample/Build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Masoud/Documents/CMakeExample/Build/CMakeFiles/ZERO_CHECK.dir
