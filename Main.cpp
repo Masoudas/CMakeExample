@@ -2,7 +2,7 @@
 
 using namespace std;
 int main(int argc, char* argv[]) {
-	if (argc > 0) {
+	if (argc > 2) {
 		cout << "Hello Other World";
 		return 1;
 	}
